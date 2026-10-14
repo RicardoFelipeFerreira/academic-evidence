@@ -1,90 +1,103 @@
-# Ricardo Felipe Ferreira — Academic & Innovation Evidence Portfolio
+<div align="center">
 
-Supporting documentation for selected academic, innovation, entrepreneurship,
-software and technology achievements.
+# Ricardo Felipe Ferreira
 
-This repository accompanies my academic CV and provides a compact, verifiable
-record of selected awards, competitions, projects and international innovation
-programs.
+### Academic & Innovation Evidence Portfolio
 
-## 📄 Evidence Portfolio
+Supporting documentation for selected achievements in **health technology, software, entrepreneurship, and innovation**.
 
-**[View the full Evidence Portfolio (PDF)](./Ricardo_Ferreira_Evidence_Portfolio.pdf)**
+<br>
 
-The PDF contains photographs, project descriptions and links to external
-sources such as institutional pages, competition organizers, publications and
-project presentations.
+<a href="./Ricardo_Ferreira_Evidence_Portfolio.pdf">
+  <img alt="View Evidence Portfolio PDF" src="https://img.shields.io/badge/VIEW-EVIDENCE%20PORTFOLIO%20(PDF)-174A70?style=for-the-badge&logo=adobeacrobatreader&logoColor=white">
+</a>
+
+<br><br>
+
+</div>
 
 ---
+
+## Overview
+
+This repository accompanies my academic CV and brings together supporting evidence for selected awards, competitions, and projects. The PDF includes photographs, short project descriptions, and links to external publications, competition pages, and project presentations where available.
 
 ## Selected Achievements
 
-### 🧬 LeukoCounter — HealthTech / AI Project
+| Achievement | Recognition |
+|---|---|
+| **LeukoCounter** | HealthTech project focused on assisting biomedical and healthcare professionals with white blood cell counting |
+| **HealthTech Innovators Award 2018** | 2nd place — Groupe Mutuel, Switzerland |
+| **International Create Challenge 2018** | Finalist / selected for an international incubation program in Switzerland |
+| **Microsoft Imagine Cup LATAM 2018** | Finalist |
+| **Apple WWDC 2018 Scholarship** | Winner |
+| **Apple WWDC 2020 Swift Student Challenge** | Award winner |
+| **Inova Unicamp Challenge 2018** | Winner by popular vote |
+| **Motorola & Ford Hackathon 2017** | Winner of the Ford Challenge |
 
-LeukoCounter was developed to assist biomedical and healthcare professionals
-with white blood cell counting.
+## Featured Projects
 
-Selected achievements and evidence documented in the portfolio:
+### LeukoCounter — HealthTech
 
-- **2nd Place — HealthTech Innovators Award 2018**, Groupe Mutuel, Switzerland
-- **Finalist — International Create Challenge 2018**, Idiap Research Institute, Switzerland
-- **Finalist — Microsoft Imagine Cup LATAM 2018**
-- Project presentation at InovaBra
-- Participation in a one-month international incubation program in Switzerland
+LeukoCounter aimed to help biomedical and healthcare professionals count white blood cells. The project participated in innovation competitions and international programs. The evidence portfolio includes presentation and award photographs, as well as links to external coverage and project presentations.
 
-The portfolio also documents the project's later use of Artificial Intelligence
-for automated counting.
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <img src="images/A.png" alt="LeukoCounter pitch at InovaBra" width="100%">
+      <sub>LeukoCounter presentation at InovaBra</sub>
+    </td>
+    <td align="center" width="50%">
+      <img src="images/B.png" alt="HealthTech Innovators Award" width="82%">
+      <sub>HealthTech Innovators Award — Groupe Mutuel</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2">
+      <img src="images/C.png" alt="International Create Challenge team in Switzerland" width="88%">
+      <br><sub>Teams selected for the international incubation program in Switzerland</sub>
+    </td>
+  </tr>
+</table>
 
-### 🏆 Other Awards & Competitions
+### DoTrack — Inovictus Team
 
-- **WWDC 2020 Swift Student Challenge — Award Winner**, Apple
-- **WWDC 2018 Apple Scholarship — Winner**
-- **Winner by popular vote — 2018 Inova Unicamp Challenge**
-- **Winner — Motorola & Ford Hackathon 2017**
-- **Finalist — Management Cancer Hackathon 2019**, Germany
-- **Semifinalist — HackBrazil 2018/2019**, Harvard and MIT challenge
-- **Finalist — Microsoft Imagine Cup LATAM 2018**
+A project using long-range RFID technology to improve supply-chain efficiency. The portfolio documents its recognition at the 2018 Inova Unicamp Challenge.
 
-### 🚀 Selected Projects
+<p align="center">
+  <img src="images/D.png" alt="Inova Unicamp Challenge 2018 award" width="82%">
+  <br><sub>Inova Unicamp Challenge 2018</sub>
+</p>
 
-**DoTrack — Inovictus Team**  
-Project using long-range RFID technology to increase efficiency in the supply
-chain. The portfolio documents its recognition at the 2018 Inova Unicamp
-Challenge.
+### Apple WWDC Scholarship — Educational Software
 
-**BGen / Sync Control**  
-Project focused on opening car doors using a mobile phone, with a car-sharing
-business model. The team won the Ford Challenge at the Mod The Future
-Hackathon and was invited to present the project to Ford executives.
+A personal software project focused on increasing young people's interest in science through primary and secondary education.
 
----
+<p align="center">
+  <img src="images/E.png" alt="Apple WWDC scholarship winners" width="82%">
+  <br><sub>WWDC Scholarship winners with Apple CEO Tim Cook</sub>
+</p>
 
-## Evidence Philosophy
+### BGen / Sync Control — Motorola & Ford Hackathon
 
-The portfolio separates achievements from their supporting evidence whenever
-possible. Photographs are paired with the corresponding project or award, while
-external sources are provided to facilitate independent verification.
+A project exploring mobile-phone-based car access and a car-sharing business model. The team won the Ford Challenge at the Mod The Future Hackathon.
 
----
+<p align="center">
+  <img src="images/F.png" alt="Motorola and Ford Hackathon team" width="82%">
+  <br><sub>Mod The Future Hackathon — Motorola / Ford Challenge</sub>
+</p>
 
-## Repository Structure
+## Full Documentation
 
-```text
-academic-evidence/
-├── README.md
-├── Ricardo_Ferreira_Evidence_Portfolio.pdf
-└── images/
-    ├── A.png
-    ├── B.png
-    ├── C.png
-    ├── D.png
-    ├── E.png
-    └── F.png
-```
+**[Open the Evidence Portfolio (PDF)](./Ricardo_Ferreira_Evidence_Portfolio.pdf)**
+
+The PDF is the consolidated document for review or download. It contains additional competition records and external source links associated with the projects above.
 
 ## Contact
 
-**Ricardo Felipe Ferreira**  
-São Paulo, Brazil
-
+**Ricardo Felipe Ferreira** · São Paulo, Brazil  
 [LinkedIn](https://www.linkedin.com/in/ricardo-felipe-ferreira/)
+
+---
+
+<sub>This repository is a supporting portfolio for the achievements described in my academic CV. Please consult the linked external sources in the PDF for additional context and verification.</sub>
